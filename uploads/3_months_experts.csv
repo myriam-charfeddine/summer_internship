@@ -1,0 +1,151 @@
+EMP ID,EXPERT ID,Efficiency&Autonomy,Analytical Skills,Communication,Technical Skills,Discipline&Quality Of Work,Initiative,Cooperation&Teamwork,Availability,Punctuality&Regular Attendance,Self-Control&Stress Tolerance,Collaboration With The Hierarchy,Ttler's Target Points
+1,2007,6.0,8.0,7,6,8,7,6,8,7,6,8.0,Ask for help if needed
+1,2008,7.0,6.0,6,7,7,7,7,8,8,6,6.0,Increase efficiency in operations
+1,2009,5.0,7.0,7,5,6,6,7,6,6,7,6.0,Learn strategies for effective negotiation
+2,2010,7.0,6.0,7,6,7,6,6,7,6,6,7.0,Enhance customer satisfaction
+2,2011,8.0,7.0,6,8,7,6,7,7,7,6,7.0,Increase team productivity
+2,2012,6.0,8.0,8,6,7,7,8,6,6,8,7.0,Optimize resource allocation
+3,2013,7.0,6.0,7,4,5,4,7,5,5,5,4.0,
+3,2014,7.0,7.0,6,5,6,5,6,6,5,7,5.0,Increase team collaboration
+3,2015,6.0,5.0,4,6,5,5,5,6,5,8,6.0,Learn strategies for effective negotiation
+4,2016,6.0,6.0,5,6,7,6,6,6,7,6,5.0,Enhance customer service
+4,2017,7.0,7.0,6,7,6,7,6,7,7,7,6.0,Increase efficiency in operations
+4,2018,5.0,6.0,7,5,6,6,7,5,6,7,7.0,Optimize marketing strategies
+5,2019,,7.0,7,8,7,7,7,8,8,7,8.0,Enhance data understanding
+5,2020,7.0,,8,7,8,8,7,7,8,8,7.0,Increase team productivity
+5,2021,6.0,5.0,6,6,6,5,5,6,7,6,6.0,Optimize resource allocation
+6,2022,4.0,5.0,7,4,5,7,5,5,7,5,4.0,Enhance decision-making skills
+6,2023,5.0,6.0,5,5,4,6,6,5,5,4,5.0,Increase team collaboration
+6,2024,6.0,7.0,6,6,6,6,7,6,6,6,7.0,Optimize workflow processes
+7,2025,7.0,6.0,8,7,6,7,8,6,6,7,8.0,Enhance customer service
+7,2026,6.0,7.0,6,6,7,6,7,7,6,6,7.0,Increase efficiency in operations
+7,2027,5.0,6.0,7,5,6,6,6,5,6,7,6.0,Optimize marketing strategies
+8,2028,8.0,9.0,8,8,8,7,9,7,9,8,8.0,
+8,2029,7.0,8.0,9,7,9,8,8,8,8,9,7.0,Increase team productivity
+8,2030,6.0,7.0,8,6,8,7,8,7,8,7,8.0,Improve skills in specific technical areas relevant to your field
+9,2022,4.0,4.0,4,5,4,4,5,4,4,4,4.0,Enhance decision-making skills
+9,2023,5.0,6.0,6,6,5,5,6,6,5,6,5.0,Increase team collaboration
+9,2024,6.0,5.0,5,7,6,5,6,5,6,5,6.0,Optimize data preprocessing
+10,2022,8.0,7.0,8,9,8,8,7,9,8,7,8.0,Improve skills in specific technical areas relevant to your field
+10,2023,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Increase efficiency in operations
+10,2024,6.0,6.0,6,6,6,6,6,6,6,6,6.0,Optimize marketing strategies
+11,2022,4.0,4.0,4,5,4,5,4,4,5,4,4.0,Enhance working under pressure
+11,2023,5.0,5.0,5,6,5,6,5,5,6,5,5.0,Increase team productivity
+11,2024,6.0,6.0,6,7,6,7,6,6,7,6,6.0,anage time efficiently and prioritize tasks
+12,2022,8.0,8.0,8,8,8,8,8,8,8,8,8.0,Enhance decision-making skills
+12,2023,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Improve skills in specific technical areas relevant to your field
+12,2024,6.0,6.0,6,6,6,6,6,6,6,6,6.0,Learn strategies for effective negotiation
+13,2022,8.0,7.0,8,7,7,7,8,7,8,7,8.0,Ask for help if needed
+13,2023,7.0,6.0,6,6,6,6,7,6,7,6,7.0,Increase critical thinking
+13,2024,6.0,5.0,5,5,5,8,6,5,6,5,6.0,Optimize resource allocation
+14,2022,4.0,5.0,7,4,5,4,5,7,4,5,4.0,Improve skills in specific technical areas relevant to your field
+14,2023,5.0,6.0,5,5,6,5,6,6,5,6,5.0,Work on stress management
+14,2024,6.0,7.0,6,6,7,6,7,7,6,7,6.0,Manage time efficiently and prioritize tasks
+15,2022,8.0,9.0,8,8,8,8,9,8,9,8,8.0,Develop leadership skills
+15,2023,7.0,8.0,9,7,9,8,8,8,8,9,7.0,Acquire skills to manage conflicts constructively
+15,2024,6.0,7.0,7,6,7,6,7,7,7,7,6.0,Enhance creative problem-solving
+16,2022,4.0,5.0,5,7,4,5,8,5,5,5,5.0,Manage time efficiently and prioritize tasks
+16,2023,7.0,6.0,6,5,5,6,6,6,6,6,5.0,
+16,2024,6.0,7.0,7,6,6,7,7,7,7,7,6.0,Develop creative problem-solving skills
+17,2022,8.0,8.0,8,8,8,8,8,8,8,8,8.0,Learn strategies for effective negotiation
+17,2023,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Manage time efficiently and prioritize tasks
+17,2024,6.0,6.0,6,6,6,6,6,6,6,6,6.0,maintain well-being
+18,2002,6.0,7.0,6,6,6,4,7,8,6,7,6.0,Enhance creative problem-solving
+18,2001,5.0,6.0,8,6,5,5,7,8,5,7,6.0,
+18,2022,6.0,7.0,6,7,6,6,8,7,6,7,7.0,Improve skills in specific technical areas relevant to your field
+19,2023,8.0,7.0,7,8,7,7,7,8,8,7,7.0,
+19,2024,7.0,6.0,6,7,6,6,6,6,7,6,6.0,Develop creative problem-solving skills
+19,2022,6.0,5.0,5,6,5,5,5,5,6,5,5.0,
+20,2023,8.0,4.0,4,5,4,5,4,6,8,7,,Acquire skills to manage conflicts constructively
+20,2024,7.0,5.0,5,6,5,6,5,5,6,5,,
+20,2022,6.0,6.0,6,7,6,7,6,6,8,6,,increase efficiency and productivity
+21,2007,6.0,5.0,7,6,6,7,6,8,7,6,7.0,
+21,2008,7.0,6.0,6,7,7,7,7,8,8,6,8.0,Increase team productivity
+21,2009,5.0,7.0,7,7,6,6,7,6,6,7,8.0,
+22,2010,7.0,6.0,7,6,7,6,6,7,6,6,7.0,Enhance data understanding
+22,2011,8.0,7.0,6,8,7,6,7,7,7,6,7.0,Increase team productivity
+22,2012,6.0,8.0,8,6,7,7,8,6,6,8,7.0,Optimize resource allocation
+23,2013,5.0,6.0,5,5,5,5,6,5,5,5,5.0,Enhance decision-making skills
+23,2014,6.0,7.0,6,6,6,6,7,6,6,6,6.0,Increase team collaboration
+23,2015,7.0,5.0,7,7,6,5,5,7,5,8,7.0,
+24,2016,6.0,6.0,5,6,5,6,6,6,7,6,5.0,Enhance written communication
+24,2017,7.0,7.0,6,7,6,7,6,7,7,7,6.0,Improve data interpretation
+24,2018,5.0,6.0,7,5,6,6,7,5,6,7,7.0,Increase process efficiency
+25,2019,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Enhance research skills
+25,2020,6.0,6.0,7,6,7,7,6,6,7,7,6.0,Improve data collection methods
+25,2021,5.0,5.0,6,5,6,6,5,5,6,6,5.0,Develop negotiation skills
+26,2022,4.0,5.0,7,4,5,4,5,5,4,5,4.0,Improve time management
+26,2023,5.0,6.0,5,5,6,5,6,6,5,6,5.0,increase efficiency and productivity
+26,2024,6.0,7.0,6,6,7,6,7,7,6,7,6.0,Increase revenue generation
+27,2025,7.0,6.0,8,7,6,7,8,6,6,7,8.0,Improve data interpretation
+27,2026,6.0,7.0,6,6,7,6,7,7,6,6,7.0,
+27,2027,5.0,6.0,7,5,6,6,6,7,6,7,6.0,Develop project planning skills
+28,2028,8.0,7.0,8,8,8,8,7,8,7,7,8.0,Improve conflict resolution
+28,2029,7.0,6.0,7,7,7,7,6,7,8,6,7.0,Enhance data collection methods
+28,2030,6.0,5.0,6,6,6,6,5,6,6,5,6.0,
+29,2022,5.0,5.0,5,6,5,5,5,5,5,5,5.0,Improve market research abilities
+29,2023,6.0,6.0,6,7,6,6,6,6,6,6,6.0,Enhance data interpretation
+29,2024,7.0,7.0,7,8,7,7,7,7,7,7,7.0,Improve self-awareness
+30,2022,7.0,8.0,8,8,8,8,8,8,7,7,8.0,Enhance data collection methods
+30,2023,6.0,7.0,7,7,7,7,7,7,8,7,7.0,Improve presentation skills
+30,2024,5.0,6.0,6,6,6,6,6,6,7,6,6.0,Foster a mindset for innovative thinking
+31,2013,6.0,5.0,7,8,6,7,6,8,7,6,5.0,
+31,2014,7.0,6.0,6,7,7,7,7,8,8,6,6.0,Enhance customer satisfaction
+31,2015,7.0,7.0,7,5,6,6,7,6,6,7,6.0,Increase team productivity
+32,2016,7.0,6.0,7,6,7,6,6,7,6,6,7.0,Optimize resource allocation
+32,2017,8.0,7.0,6,8,7,6,7,7,7,6,7.0,Develop creative problem-solving skills
+32,2018,6.0,8.0,8,6,7,7,8,6,6,8,7.0,Improve data interpretation
+33,2019,5.0,6.0,5,5,5,5,6,5,5,5,5.0,increase efficiency and productivity
+33,2020,6.0,7.0,6,6,6,6,7,6,6,6,6.0,Enhance customer satisfaction
+33,2021,7.0,5.0,5,7,6,5,5,7,5,5,7.0,Increase team productivity
+34,2022,6.0,6.0,5,6,5,6,6,6,7,6,5.0,Optimize resource allocation
+34,2023,7.0,7.0,6,7,6,7,6,7,7,7,6.0,
+34,2024,5.0,6.0,7,5,6,6,7,5,6,7,7.0,Increase team collaboration
+35,2025,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Optimize workflow processes
+35,2026,6.0,6.0,7,6,7,7,6,6,7,7,6.0,Enhance data analysis
+35,2027,5.0,5.0,6,5,6,6,5,5,6,6,5.0,Increase efficiency in operations
+36,2028,4.0,5.0,4,4,5,4,5,5,4,5,4.0,Enhance creative problem-solving
+36,2029,5.0,6.0,5,5,6,5,6,6,5,6,5.0,Enhance working under pressure
+36,2030,6.0,7.0,6,6,7,6,7,7,6,7,6.0,
+37,2022,7.0,6.0,8,7,6,7,8,6,6,7,8.0,Optimize resource allocation
+37,2023,6.0,7.0,6,6,7,6,7,7,6,6,7.0,Increase active listening
+37,2024,5.0,6.0,7,5,6,6,6,5,6,7,6.0,Improve data interpretation
+38,2022,8.0,7.0,8,8,8,8,7,8,7,7,8.0,Enhance data collection methods
+38,2023,7.0,6.0,7,7,7,7,6,7,8,6,7.0,Enhance decision-making skills
+38,2024,6.0,5.0,6,6,6,6,5,6,6,5,6.0,Increase team collaboration
+39,2022,5.0,5.0,5,6,5,5,7,5,5,5,5.0,Optimize workflow processes
+39,2023,6.0,6.0,6,7,6,6,6,6,6,6,6.0,Enhance customer service
+39,2024,7.0,7.0,7,8,7,7,7,7,7,7,7.0,
+40,2022,7.0,8.0,8,8,8,8,8,8,7,7,8.0,Optimize marketing strategies
+40,2023,6.0,7.0,7,7,7,7,7,7,8,7,7.0,Enhance customer satisfaction
+40,2024,8.0,6.0,6,6,6,6,6,6,7,6,8.0,Optimize resource allocation
+41,2018,6.0,5.0,7,6,6,7,6,8,7,8,5.0,Increase team collaboration
+41,2019,7.0,6.0,6,7,7,7,7,8,8,6,6.0,Learn strategies for effective negotiation
+41,2020,5.0,9.0,7,5,6,6,7,6,8,7,6.0,Enhance customer service
+42,2021,7.0,6.0,7,6,7,6,6,7,6,6,8.0,Increase efficiency in operations
+42,2022,8.0,7.0,6,8,7,6,7,7,7,6,7.0,Optimize marketing strategies
+42,2023,6.0,8.0,8,6,7,7,8,6,6,8,7.0,Enhance data understanding
+43,2024,8.0,6.0,5,5,5,5,6,5,5,5,5.0,Increase efficiency in operations
+43,2025,6.0,7.0,6,6,6,6,7,6,6,6,6.0,Optimize marketing strategies
+43,2026,7.0,5.0,5,7,6,5,5,7,5,5,7.0,Enhance data understanding
+44,2027,6.0,6.0,8,6,6,6,6,6,7,6,7.0,Increase team productivity
+44,2018,7.0,7.0,6,7,6,7,6,7,7,7,6.0,Optimize resource allocation
+44,2019,8.0,6.0,7,7,8,6,7,7,6,7,7.0,Enhance decision-making skills
+45,2020,7.0,7.0,7,7,7,7,7,7,7,7,7.0,Increase team collaboration
+45,2021,6.0,6.0,7,6,7,7,6,6,7,7,6.0,Optimize workflow processes
+45,2022,8.0,7.0,6,5,6,7,7,7,6,6,7.0,Enhance customer service
+46,2023,6.0,6.0,6,4,5,7,5,5,4,5,4.0,Increase efficiency in operations
+46,2024,5.0,6.0,5,5,6,5,6,6,5,6,5.0,Optimize marketing strategies
+46,2025,6.0,7.0,6,6,7,6,7,7,6,7,6.0,
+47,2026,7.0,6.0,8,7,6,7,8,6,6,7,8.0,Increase team productivity
+47,2027,6.0,7.0,6,6,7,6,7,7,6,6,7.0,Improve skills in specific technical areas relevant to your field
+47,2018,5.0,6.0,7,7,6,6,6,5,6,7,6.0,Enhance decision-making skills
+48,2019,8.0,7.0,8,8,8,8,7,8,7,7,8.0,Increase team collaboration
+48,2020,7.0,6.0,7,7,7,7,6,7,8,6,7.0,Optimize data preprocessing
+48,2021,6.0,5.0,6,6,6,6,5,6,6,5,6.0,Improve skills in specific technical areas relevant to your field
+49,2022,5.0,5.0,5,6,5,8,5,8,5,5,6.0,Increase efficiency in operations
+49,2023,6.0,6.0,6,7,6,6,6,6,6,6,6.0,Optimize marketing strategies
+49,2024,7.0,7.0,7,8,7,7,7,7,7,7,7.0,Enhance working under pressure
+50,2025,7.0,8.0,8,8,8,8,8,8,7,7,8.0,Increase team productivity
+50,2026,6.0,7.0,7,7,7,7,7,7,8,7,7.0,anage time efficiently and prioritize tasks
+50,2027,5.0,6.0,6,7,6,6,6,6,7,6,6.0,Enhance decision-making skills

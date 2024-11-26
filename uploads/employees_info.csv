@@ -1,0 +1,51 @@
+﻿EMP ID,Education Background,Age,Gender,Profile,Previous Position,Position Level,Number Of Promotions,Years Of Service,Years Of Experience,number of projects,Support,Reporting,Team,Evaluation,Organisation,Performance,General Rating,Is promoted
+1,Bachelor's education,28,M,Backend Developer,Developer,1,0,4,5,5,7,8,7,8,7,8,7,1
+2,Engineering schools,30,F,Frontend Developer,Developer,1,0,2,3,6,8,7,7,7,8,7,6,0
+3,Engineering schools,35,M,Product Management,Product Owner,3,2,5,9,7,7,5,6,6,8,7,5,0
+4,Bachelor's education,31,M,DevOps Engineer,Test Manager,3,1,5,6,7,7,5,6,7,4,6,7,0
+5,Bachelor's education,29,M,Full Stack Developer,Developer,1,0,2,5,8,5,4,5,7,6,8,4,0
+6,Engineering schools,33,M,System Developer,Technical Lead,3,1,10,10,7,9,9,9,8,9,9,9,1
+7,Engineering schools,27,F,Backend Developer,Developer,1,0,2,2,5,7,7,6,6,7,7,6,0
+8,Bachelor's education,32,F,Software Engineer,Product Owner,3,2,6,7,12,8,9,7,9,8,9,8,1
+9,Bachelor's education,26,M,Frontend Developer,Developer,1,0,2,2,4,6,7,6,5,6,7,5,0
+10,Engineering schools,34,F,System Architect,Agile Technical Coach,4,3,11,12,20,9,9,9,9,9,9,9,1
+11,Bachelor's education,28,M,Web Developer,Developer,1,0,4,5,9,7,8,7,8,7,8,7,1
+12,Master,30,M,Full Stack Developer,Developer,1,0,3,3,6,4,7,5,7,6,7,6,0
+13,Bachelor's education,35,M,Business Analyst,Senior Business Analyst,2,1,5,7,12,7,5,3,5,6,9,4,0
+14,Engineering schools,31,M,Frontend Developer,Senior Developer,2,1,7,8,11,7,8,8,9,8,8,7,1
+15,Bachelor's education,29,F,Backend Developer,Developer,1,0,5,5,6,7,6,6,7,3,8,7,0
+16,Engineering schools,33,M,Integration Developer,Technical Lead,3,2,10,10,10,9,9,9,8,9,9,9,1
+17,Engineering schools,27,F,Web Developer,Developer,1,0,2,2,5,7,7,6,7,7,7,6,1
+18,Master,32,M,Data Analyst,Product Owner,3,2,6,7,12,8,9,7,9,8,9,8,1
+19,Master,26,M,DevOps Engineer,Tester,1,0,2,2,4,6,5,6,7,4,7,6,0
+20,Engineering schools,34,F,Software Architect,Associate Architect,4,2,8,12,20,9,9,9,6,7,8,8,1
+21,Bachelor's education,28,M,Full Stack Developer,Senior Scrum Master,3,2,5,6,7,8,9,8,8,9,9,8,1
+22,Engineering schools,30,F,Business Analyst,Senior Business Analyst,2,1,4,5,8,6,4,7,5,8,5,7,0
+23,Engineering schools,35,M,Software Engineer,Senior Developer,2,0,5,10,9,9,9,9,8,9,9,9,1
+24,Bachelor's education,31,M,System Developer,Technical Lead,3,2,4,8,11,4,4,6,7,7,6,5,0
+25,Bachelor's education,29,F,System Developer,SW Development Engineer in Test,2,0,6,7,12,8,8,9,9,8,9,6,0
+26,Master,33,M,Full Stack Developer,Senior Scrum Master,3,1,11,12,15,9,9,9,9,9,9,9,1
+27,Engineering schools,27,F,Frontend Developer,Developer,1,0,3,4,7,7,7,7,7,7,7,6,1
+28,Bachelor's education,32,F,Business Analyst,Senior Business Analyst,2,1,7,9,15,8,9,8,9,9,9,8,1
+29,Bachelor's education,26,M,DevOps Engineer,Tester,1,0,2,3,5,6,4,7,6,7,7,6,0
+30,Engineering schools,44,M,Integration Developer,Technical Lead,3,2,8,11,17,9,9,9,9,9,9,9,1
+31,Bachelor's education,28,M,Backend Developer,Senior Developer,2,1,4,5,9,7,4,7,5,7,5,7,0
+32,Engineering schools,30,F,Frontend Developer,Senior Developer,2,0,3,5,6,5,7,5,7,6,7,6,0
+33,Engineering schools,55,M,DevOps Engineer,Test Manager,3,1,8,9,14,7,5,6,8,6,7,7,0
+34,Bachelor's education,31,M,Architect,Associate Architect,4,3,6,8,11,7,8,8,9,8,8,7,1
+35,Master,49,F,Full Stack Developer,Senior Developer,2,1,6,9,12,4,5,8,6,6,7,5,0
+36,Engineering schools,33,M,Software Engineer,Technical Lead,3,2,9,12,16,6,4,6,8,6,7,7,0
+37,Engineering schools,27,F,DevOps Engineer,Senior Scrum Master,3,1,5,6,10,8,9,8,8,9,9,8,1
+38,Bachelor's education,42,F,System Developer,Product Owner,3,0,6,7,12,8,9,7,9,8,9,8,1
+39,Master,26,M,Automation Engineer,Tester,1,0,2,3,5,6,4,6,5,8,5,6,0
+40,Engineering schools,34,F,Business Analyst,Business Analyst,1,0,10,12,20,9,9,9,9,9,9,6,0
+41,Bachelor's education,28,M,Frontend Developer,Developer,1,0,4,5,9,7,8,7,8,7,8,7,1
+42,Engineering schools,30,M,Software Engineer,Developer,1,0,3,5,6,8,7,7,7,8,7,6,0
+43,Bachelor's education,45,M,Automation Engineer,Test Manager,3,2,7,9,14,7,9,9,8,8,9,9,1
+44,Bachelor's education,31,M,Frontend Developer,Senior Developer,2,0,7,8,11,7,8,8,9,8,8,7,1
+45,Master,29,F,System Developer,Agile Technical Coach,4,1,6,7,12,5,7,4,5,4,6,5,0
+46,Engineering schools,33,M,Software Engineer,Technical Lead,3,0,10,12,10,7,6,7,6,6,9,7,0
+47,Engineering schools,27,F,System Developer,Senior Scrum Master,2,0,2,4,6,7,4,6,7,7,5,8,0
+48,Bachelor's education,32,M,Data Analyst,Product Owner,3,2,3,5,12,8,5,7,6,8,9,8,1
+49,Bachelor's education,26,M,DevOps Engineer,Tester,1,0,3,3,5,6,7,6,5,7,4,6,0
+50,Engineering schools,54,M,Software Architect,Software Architect,5,3,9,11,20,9,9,9,9,9,9,9,1

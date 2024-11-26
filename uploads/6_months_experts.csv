@@ -1,0 +1,151 @@
+EMP ID,EXPERT ID,Efficiency&Autonomy,Analytical Skills,Communication,Technical Skills,Discipline&Quality Of Work,Initiative,Cooperation&Teamwork,Availability,Punctuality&Regular Attendance,Self-Control&Stress Tolerance,Collaboration With The Hierarchy,Ttler's Target Points
+1,2007,5.0,5.0,5.0,6.0,7.0,7.0,6.0,8.0,7.0,6.0,5.0,increase efficiency and productivity
+1,2008,7.0,6.0,8.0,4.0,7.0,7.0,7.0,8.0,8.0,6.0,6.0,Enhance data collection methods
+1,2009,8.0,7.0,7.0,5.0,6.0,6.0,7.0,6.0,6.0,7.0,5.0,Improve presentation skills
+2,2010,7.0,6.0,7.0,6.0,7.0,6.0,6.0,7.0,6.0,6.0,7.0,
+2,2011,8.0,7.0,6.0,8.0,7.0,6.0,7.0,7.0,7.0,6.0,7.0,
+2,2012,6.0,8.0,8.0,6.0,7.0,7.0,8.0,6.0,6.0,8.0,7.0,Improve self-awareness
+3,2013,5.0,6.0,8.0,8.0,5.0,5.0,6.0,5.0,5.0,5.0,5.0,Develop leadership skills
+3,2014,6.0,7.0,6.0,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,
+3,2015,7.0,5.0,5.0,7.0,6.0,5.0,5.0,7.0,5.0,5.0,7.0,Foster a mindset for innovative thinking
+4,2016,6.0,6.0,5.0,6.0,5.0,6.0,6.0,6.0,7.0,6.0,5.0,Increase process efficiency
+4,2017,7.0,7.0,6.0,7.0,6.0,7.0,6.0,7.0,7.0,7.0,6.0,Enhance research skills
+4,2018,5.0,6.0,7.0,5.0,6.0,6.0,7.0,5.0,6.0,7.0,7.0,Improve data collection methods
+5,2019,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Develop negotiation skills
+5,2020,6.0,6.0,7.0,6.0,7.0,7.0,8.0,6.0,7.0,7.0,6.0,Improve time management
+5,2021,7.0,5.0,7.0,5.0,6.0,6.0,7.0,5.0,6.0,6.0,9.0,Develop creative problem-solving skills
+6,2022,7.0,5.0,6.0,4.0,5.0,4.0,5.0,5.0,4.0,5.0,4.0,Increase revenue generation
+6,2023,5.0,6.0,5.0,5.0,6.0,5.0,6.0,6.0,5.0,6.0,5.0,Improve data interpretation
+6,2024,6.0,7.0,6.0,6.0,7.0,6.0,7.0,7.0,6.0,7.0,6.0,Enhance data collection methods
+7,2025,7.0,6.0,8.0,7.0,6.0,7.0,6.0,6.0,6.0,7.0,9.0,Develop project planning skills
+7,2026,6.0,7.0,6.0,6.0,7.0,6.0,7.0,7.0,6.0,6.0,7.0,Foster a mindset for innovative thinking
+7,2027,5.0,6.0,7.0,5.0,6.0,6.0,6.0,5.0,6.0,7.0,6.0,Enhance creative problem-solving
+8,2028,8.0,7.0,8.0,8.0,8.0,8.0,7.0,8.0,7.0,7.0,8.0,Increase customer retention
+8,2029,7.0,6.0,7.0,7.0,7.0,7.0,6.0,7.0,8.0,6.0,7.0,Improve market research abilities
+8,2030,6.0,5.0,6.0,6.0,6.0,6.0,5.0,6.0,6.0,5.0,6.0,Improve self-awareness
+9,2022,5.0,5.0,5.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Enhance customer satisfaction
+9,2023,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Increase team productivity
+9,2024,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Optimize resource allocation
+10,2022,7.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,7.0,7.0,8.0,Develop creative problem-solving skills
+10,2023,6.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,7.0,Improve data interpretation
+10,2024,5.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,6.0,increase efficiency and productivity
+11,2022,6.0,7.0,7.0,5.0,8.0,5.0,7.0,4.0,8.0,7.0,7.0,Enhance customer satisfaction
+11,2023,5.0,5.0,5.0,6.0,7.0,6.0,5.0,5.0,8.0,7.0,8.0,Increase team productivity
+11,2024,6.0,6.0,6.0,7.0,6.0,7.0,6.0,6.0,6.0,6.0,8.0,Optimize resource allocation
+12,2022,8.0,8.0,8.0,8.0,6.0,8.0,7.0,8.0,8.0,8.0,8.0,
+12,2023,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Increase team collaboration
+12,2024,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Optimize workflow processes
+13,2022,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,8.0,Enhance data analysis
+13,2023,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,7.0,Increase efficiency in operations
+13,2024,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,6.0,Enhance creative problem-solving
+14,2022,4.0,5.0,4.0,4.0,5.0,4.0,5.0,5.0,4.0,5.0,7.0,Enhance working under pressure
+14,2023,5.0,6.0,5.0,5.0,6.0,5.0,6.0,6.0,5.0,6.0,5.0,
+14,2024,6.0,7.0,6.0,6.0,7.0,6.0,7.0,7.0,6.0,7.0,6.0,Optimize resource allocation
+15,2022,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,8.0,Increase active listening
+15,2023,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,7.0,Improve data interpretation
+15,2024,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,6.0,Enhance data collection methods
+16,2022,,7.0,6.0,5.0,6.0,5.0,5.0,5.0,8.0,5.0,9.0,Enhance decision-making skills
+16,2023,,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Increase team collaboration
+16,2024,,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Optimize workflow processes
+17,2022,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,Enhance customer service
+17,2023,7.0,7.0,7.0,7.0,7.0,7.0,9.0,7.0,7.0,6.0,8.0,
+17,2024,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Optimize marketing strategies
+18,2002,4.0,5.0,4.0,8.0,5.0,7.0,5.0,5.0,4.0,5.0,4.0,Enhance customer satisfaction
+18,2001,5.0,6.0,5.0,6.0,6.0,5.0,6.0,6.0,5.0,6.0,5.0,Optimize resource allocation
+18,2022,6.0,7.0,6.0,6.0,7.0,6.0,7.0,7.0,6.0,7.0,6.0,
+19,2023,5.0,5.0,5.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Increase team collaboration
+19,2024,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Learn strategies for effective negotiation
+19,2022,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Enhance customer service
+20,2023,7.0,8.0,8.0,8.0,7.0,8.0,7.0,8.0,7.0,7.0,,Increase efficiency in operations
+20,2024,6.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,,Optimize marketing strategies
+20,2022,8.0,6.0,6.0,6.0,6.0,6.0,6.0,9.0,7.0,8.0,,Enhance data understanding
+21,2007,,,,,,,,,,,,Improve skills in specific technical areas relevant to your field
+21,2008,7.0,6.0,8.0,7.0,7.0,7.0,7.0,9.0,8.0,7.0,6.0,Learn strategies for effective negotiation
+21,2009,8.0,7.0,7.0,8.0,8.0,8.0,8.0,9.0,9.0,7.0,7.0,Ask for help if needed
+22,2010,6.0,8.0,7.0,8.0,7.0,7.0,8.0,6.0,6.0,8.0,7.0,Increase critical thinking
+22,2011,6.0,7.0,7.0,7.0,8.0,7.0,7.0,8.0,7.0,7.0,8.0,Optimize resource allocation
+22,2012,7.0,7.0,7.0,6.0,8.0,7.0,5.0,8.0,8.0,7.0,8.0,
+23,2013,7.0,9.0,7.0,7.0,8.0,8.0,9.0,7.0,7.0,9.0,8.0,Improve time management
+23,2014,6.0,7.0,6.0,8.0,7.0,6.0,7.0,6.0,6.0,6.0,6.0,
+23,2015,7.0,8.0,7.0,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,Increase revenue generation
+24,2016,8.0,6.0,6.0,8.0,7.0,6.0,6.0,8.0,6.0,6.0,8.0,Improve data interpretation
+24,2017,7.0,7.0,6.0,7.0,6.0,7.0,7.0,7.0,8.0,7.0,6.0,Enhance data collection methods
+24,2018,8.0,8.0,7.0,8.0,7.0,8.0,7.0,8.0,8.0,8.0,7.0,Develop project planning skills
+25,2019,6.0,7.0,8.0,6.0,7.0,7.0,8.0,6.0,7.0,8.0,8.0,Improve conflict resolution
+25,2020,9.0,8.0,9.0,9.0,9.0,9.0,8.0,9.0,8.0,8.0,9.0,Enhance data collection methods
+25,2021,8.0,7.0,9.0,8.0,9.0,9.0,7.0,8.0,9.0,9.0,8.0,
+26,2022,7.0,6.0,8.0,7.0,8.0,8.0,6.0,7.0,8.0,8.0,7.0,Improve market research abilities
+26,2023,8.0,6.0,9.0,5.0,6.0,5.0,6.0,5.0,5.0,6.0,5.0,Enhance data interpretation
+26,2024,6.0,7.0,6.0,6.0,7.0,6.0,7.0,6.0,6.0,7.0,6.0,increase efficiency and productivity
+27,2025,7.0,8.0,7.0,7.0,8.0,7.0,8.0,7.0,7.0,8.0,7.0,Enhance data collection methods
+27,2026,8.0,7.0,9.0,8.0,6.0,8.0,9.0,7.0,7.0,8.0,9.0,Improve presentation skills
+27,2027,7.0,8.0,8.0,5.0,8.0,7.0,8.0,8.0,7.0,7.0,8.0,
+28,2028,6.0,7.0,8.0,6.0,7.0,7.0,7.0,6.0,7.0,8.0,8.0,
+28,2029,9.0,8.0,9.0,9.0,9.0,9.0,8.0,9.0,8.0,8.0,9.0,Improve self-awareness
+28,2030,8.0,7.0,9.0,8.0,9.0,9.0,7.0,8.0,9.0,9.0,8.0,Develop leadership skills
+29,2022,7.0,6.0,8.0,7.0,8.0,8.0,6.0,7.0,8.0,8.0,7.0,
+29,2023,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,7.0,6.0,6.0,Foster a mindset for innovative thinking
+29,2024,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,8.0,7.0,7.0,Increase process efficiency
+30,2022,8.0,8.0,7.0,9.0,8.0,7.0,8.0,8.0,9.0,8.0,8.0,Enhance research skills
+30,2023,9.0,9.0,9.0,9.0,9.0,6.0,9.0,9.0,9.0,9.0,9.0,Improve data collection methods
+30,2024,8.0,8.0,7.0,8.0,9.0,5.0,8.0,8.0,9.0,9.0,8.0,Develop negotiation skills
+31,2013,7.0,7.0,8.0,7.0,8.0,7.0,7.0,7.0,8.0,8.0,7.0,Improve time management
+31,2014,7.0,6.0,7.0,7.0,7.0,9.0,6.0,7.0,8.0,6.0,7.0,Develop creative problem-solving skills
+31,2015,6.0,5.0,8.0,6.0,5.0,6.0,5.0,6.0,6.0,5.0,6.0,Increase revenue generation
+32,2016,5.0,5.0,5.0,6.0,5.0,8.0,5.0,6.0,5.0,7.0,7.0,Improve data interpretation
+32,2017,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Enhance data collection methods
+32,2018,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Develop project planning skills
+33,2019,7.0,8.0,8.0,7.0,8.0,8.0,8.0,8.0,7.0,7.0,8.0,Foster a mindset for innovative thinking
+33,2020,6.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,7.0,Enhance creative problem-solving
+33,2021,5.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,6.0,Increase customer retention
+34,2022,6.0,7.0,7.0,5.0,8.0,5.0,7.0,4.0,8.0,7.0,7.0,Improve market research abilities
+34,2023,5.0,5.0,5.0,6.0,7.0,6.0,9.0,9.0,8.0,7.0,8.0,Improve self-awareness
+34,2024,6.0,6.0,6.0,7.0,8.0,7.0,6.0,6.0,6.0,6.0,8.0,Enhance customer satisfaction
+35,2025,8.0,7.0,8.0,6.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,Increase team productivity
+35,2026,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Optimize resource allocation
+35,2027,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,8.0,6.0,6.0,Develop creative problem-solving skills
+36,2028,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,8.0,Improve data interpretation
+36,2029,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,7.0,increase efficiency and productivity
+36,2030,6.0,5.0,6.0,5.0,8.0,5.0,7.0,5.0,6.0,8.0,6.0,Enhance customer satisfaction
+37,2022,4.0,5.0,4.0,4.0,8.0,7.0,5.0,5.0,4.0,5.0,7.0,Increase team productivity
+37,2023,5.0,6.0,5.0,7.0,6.0,8.0,8.0,6.0,5.0,7.0,7.0,Optimize resource allocation
+37,2024,6.0,7.0,6.0,6.0,7.0,6.0,7.0,7.0,6.0,7.0,6.0,
+38,2022,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,8.0,7.0,8.0,Increase team collaboration
+38,2023,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,6.0,7.0,Increase client satisfaction scores
+38,2024,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,6.0,Enhance data collection methods
+39,2022,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Improve presentation skills
+39,2023,,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Improve stakeholder communication
+39,2024,,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Enhance teamwork
+40,2022,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,
+40,2023,8.0,7.0,9.0,8.0,8.0,9.0,8.0,7.0,9.0,8.0,7.0,Learn strategies for effective negotiation
+40,2024,9.0,8.0,8.0,9.0,6.0,9.0,7.0,9.0,9.0,8.0,8.0,Enhance customer satisfaction
+41,2018,7.0,9.0,9.0,7.0,8.0,8.0,7.0,7.0,7.0,9.0,8.0,Increase team productivity
+41,2019,9.0,8.0,7.0,8.0,9.0,8.0,7.0,9.0,8.0,8.0,7.0,Optimize resource allocation
+41,2020,9.0,9.0,8.0,9.0,8.0,9.0,8.0,9.0,9.0,6.0,7.0,
+42,2021,8.0,9.0,9.0,8.0,6.0,9.0,9.0,8.0,8.0,9.0,9.0,Increase team collaboration
+42,2022,7.0,8.0,7.0,7.0,7.0,7.0,8.0,4.0,7.0,7.0,7.0,Learn strategies for effective negotiation
+42,2023,8.0,6.0,8.0,8.0,8.0,8.0,9.0,7.0,8.0,6.0,6.0,Enhance customer service
+43,2024,9.0,7.0,7.0,9.0,8.0,7.0,7.0,9.0,7.0,7.0,9.0,Increase efficiency in operations
+43,2025,8.0,8.0,7.0,8.0,7.0,8.0,8.0,8.0,9.0,8.0,7.0,Optimize marketing strategies
+43,2026,9.0,6.0,8.0,9.0,8.0,9.0,8.0,9.0,9.0,9.0,8.0,Enhance data understanding
+44,2027,7.0,8.0,9.0,7.0,8.0,8.0,9.0,7.0,8.0,9.0,9.0,Increase team productivity
+44,2018,9.0,9.0,9.0,9.0,9.0,8.0,9.0,9.0,9.0,9.0,9.0,Optimize resource allocation
+44,2019,8.0,8.0,9.0,8.0,9.0,9.0,8.0,8.0,9.0,9.0,8.0,Enhance decision-making skills
+45,2020,7.0,7.0,8.0,7.0,8.0,8.0,7.0,7.0,8.0,8.0,7.0,Increase team collaboration
+45,2021,7.0,8.0,7.0,7.0,7.0,7.0,8.0,7.0,8.0,7.0,7.0,Optimize workflow processes
+45,2022,8.0,9.0,8.0,8.0,8.0,8.0,9.0,8.0,9.0,8.0,8.0,Enhance customer service
+46,2023,9.0,7.0,7.0,9.0,8.0,7.0,7.0,9.0,7.0,7.0,9.0,Increase efficiency in operations
+46,2024,9.0,8.0,9.0,8.0,9.0,8.0,8.0,9.0,8.0,8.0,9.0,Optimize marketing strategies
+46,2025,9.0,9.0,8.0,9.0,8.0,9.0,8.0,5.0,9.0,9.0,8.0,
+47,2026,8.0,9.0,9.0,8.0,9.0,9.0,7.0,7.0,8.0,7.0,8.0,Increase team productivity
+47,2027,7.0,8.0,9.0,8.0,7.0,8.0,9.0,7.0,8.0,9.0,9.0,Improve skills in specific technical areas relevant to your field
+47,2018,8.0,9.0,8.0,9.0,8.0,6.0,8.0,8.0,9.0,8.0,8.0,Enhance decision-making skills
+48,2019,9.0,7.0,7.0,9.0,8.0,7.0,7.0,9.0,7.0,7.0,9.0,Increase team collaboration
+48,2020,9.0,8.0,9.0,8.0,9.0,8.0,8.0,9.0,8.0,8.0,9.0,Optimize data preprocessing
+48,2021,9.0,9.0,8.0,6.0,8.0,9.0,8.0,9.0,9.0,9.0,8.0,Improve skills in specific technical areas relevant to your field
+49,2022,8.0,9.0,9.0,8.0,9.0,7.0,9.0,8.0,8.0,9.0,9.0,Increase efficiency in operations
+49,2023,7.0,8.0,7.0,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,Optimize marketing strategies
+49,2024,8.0,9.0,8.0,8.0,8.0,8.0,9.0,5.0,8.0,8.0,8.0,Enhance working under pressure
+50,2025,9.0,7.0,7.0,9.0,8.0,7.0,7.0,9.0,7.0,6.0,8.0,Increase team productivity
+50,2026,6.0,6.0,6.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,anage time efficiently and prioritize tasks
+50,2027,7.0,7.0,7.0,8.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Enhance decision-making skills

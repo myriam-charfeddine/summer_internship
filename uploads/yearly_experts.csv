@@ -1,0 +1,151 @@
+EMP ID,EXPERT ID,Work Performance_current_level,Management_current_level,Soft Skills_current_level,Ttler's Target Points
+1,2007,,8.0,6.0,Enhance teamwork
+1,2008,,7.0,7.0,Improve data analysis capabilities
+1,2009,,9.0,8.0,Develop leadership skills
+2,2010,6.0,6.0,6.0,Enhance written communication
+2,2011,7.0,7.0,7.0,Improve data interpretation
+2,2012,8.0,8.0,8.0,Increase process efficiency
+3,2013,9.0,6.0,6.0,Enhance research skills
+3,2014,8.0,7.0,7.0,Improve data collection methods
+3,2015,7.0,8.0,8.0,Develop negotiation skills
+4,2016,7.0,6.0,6.0,Improve time management
+4,2017,8.0,7.0,7.0,
+4,2018,9.0,8.0,8.0,Increase revenue generation
+5,2019,8.0,8.0,7.0,Improve data interpretation
+5,2020,7.0,7.0,6.0,Enhance data collection methods
+5,2021,6.0,6.0,5.0,Develop project planning skills
+6,2022,5.0,5.0,5.0,Improve conflict resolution
+6,2023,6.0,6.0,6.0,Enhance data collection methods
+6,2024,7.0,7.0,7.0,
+7,2025,8.0,7.0,7.0,Improve market research abilities
+7,2026,7.0,6.0,6.0,Enhance data interpretation
+7,2027,6.0,5.0,5.0,increase efficiency and productivity
+8,2028,9.0,8.0,8.0,Enhance data collection methods
+8,2029,8.0,7.0,7.0,Improve presentation skills
+8,2030,7.0,6.0,6.0,
+9,2022,5.0,5.0,5.0,
+9,2023,6.0,6.0,6.0,Improve self-awareness
+9,2024,7.0,7.0,7.0,Develop leadership skills
+10,2022,8.0,7.0,7.0,
+10,2023,7.0,6.0,6.0,Foster a mindset for innovative thinking
+10,2024,6.0,5.0,5.0,Increase process efficiency
+11,2022,9.0,8.0,8.0,Enhance research skills
+11,2023,8.0,7.0,7.0,Improve data collection methods
+11,2024,7.0,6.0,6.0,Develop negotiation skills
+12,2022,5.0,5.0,5.0,Improve time management
+12,2023,6.0,6.0,6.0,Develop creative problem-solving skills
+12,2024,7.0,7.0,7.0,Increase revenue generation
+13,2022,8.0,8.0,8.0,Improve data interpretation
+13,2023,7.0,7.0,7.0,Enhance data collection methods
+13,2024,6.0,6.0,6.0,Develop project planning skills
+14,2022,5.0,5.0,5.0,Foster a mindset for innovative thinking
+14,2023,6.0,6.0,6.0,Enhance creative problem-solving
+14,2024,7.0,7.0,7.0,Increase customer retention
+15,2022,8.0,8.0,8.0,Improve market research abilities
+15,2023,7.0,7.0,7.0,Improve self-awareness
+15,2024,6.0,6.0,6.0,Enhance customer satisfaction
+16,2022,5.0,5.0,5.0,Increase team productivity
+16,2023,6.0,6.0,6.0,Optimize resource allocation
+16,2024,7.0,7.0,7.0,Develop creative problem-solving skills
+17,2022,8.0,8.0,8.0,Improve data interpretation
+17,2023,7.0,7.0,7.0,increase efficiency and productivity
+17,2024,6.0,6.0,6.0,Enhance customer satisfaction
+18,2002,5.0,5.0,5.0,Increase team productivity
+18,2001,6.0,6.0,6.0,Optimize resource allocation
+18,2022,7.0,7.0,7.0,
+19,2023,8.0,8.0,8.0,Increase team collaboration
+19,2024,7.0,7.0,7.0,Increase client satisfaction scores
+19,2022,6.0,6.0,6.0,Enhance data collection methods
+20,2023,5.0,5.0,5.0,Improve presentation skills
+20,2024,6.0,6.0,6.0,Improve stakeholder communication
+20,2022,7.0,6.0,7.0,Enhance teamwork
+21,2007,,,,
+21,2008,7.0,8.0,9.0,Improve data interpretation
+21,2009,8.0,9.0,8.0,Enhance data collection methods
+22,2010,6.0,7.0,8.0,Enhance decision-making skills
+22,2011,9.0,8.0,9.0,Increase team collaboration
+22,2012,9.0,9.0,8.0,Optimize workflow processes
+23,2013,8.0,9.0,9.0,Enhance customer service
+23,2014,7.0,8.0,7.0,
+23,2015,8.0,9.0,8.0,Optimize marketing strategies
+24,2016,9.0,7.0,7.0,Enhance customer satisfaction
+24,2017,8.0,8.0,7.0,Optimize resource allocation
+24,2018,9.0,9.0,8.0,
+25,2019,7.0,8.0,9.0,Increase team collaboration
+25,2020,9.0,9.0,9.0,Learn strategies for effective negotiation
+25,2021,8.0,8.0,9.0,Enhance customer service
+26,2022,7.0,7.0,8.0,Increase efficiency in operations
+26,2023,7.0,8.0,7.0,Optimize marketing strategies
+26,2024,8.0,9.0,8.0,Enhance data understanding
+27,2025,9.0,7.0,7.0,Improve skills in specific technical areas relevant to your field
+27,2026,9.0,8.0,9.0,Learn strategies for effective negotiation
+27,2027,9.0,9.0,8.0,Ask for help if needed
+28,2028,8.0,9.0,9.0,Increase critical thinking
+28,2029,7.0,8.0,9.0,Optimize resource allocation
+28,2030,8.0,9.0,8.0,
+29,2022,9.0,7.0,7.0,Improve time management
+29,2023,9.0,8.0,9.0,Develop creative problem-solving skills
+29,2024,9.0,9.0,8.0,Increase revenue generation
+30,2022,8.0,9.0,9.0,Improve data interpretation
+30,2023,7.0,8.0,7.0,Enhance data collection methods
+30,2024,8.0,9.0,8.0,Develop project planning skills
+31,2013,9.0,7.0,7.0,Foster a mindset for innovative thinking
+31,2014,,,,Enhance creative problem-solving
+31,2015,6.0,6.0,6.0,Increase customer retention
+32,2016,7.0,7.0,7.0,Improve market research abilities
+32,2017,7.0,8.0,8.0,Improve self-awareness
+32,2018,6.0,7.0,7.0,Enhance customer satisfaction
+33,2019,5.0,6.0,6.0,increase efficiency and productivity
+33,2020,,,,Enhance data collection methods
+33,2021,7.0,6.0,8.0,Improve presentation skills
+34,2022,8.0,7.0,7.0,
+34,2023,6.0,8.0,8.0,
+34,2024,8.0,7.0,8.0,Improve self-awareness
+35,2025,9.0,8.0,7.0,Develop leadership skills
+35,2026,7.0,9.0,9.0,Enhance research skills
+35,2027,6.0,7.0,6.0,Improve data collection methods
+36,2028,7.0,8.0,7.0,Develop negotiation skills
+36,2029,8.0,6.0,6.0,Improve time management
+36,2030,7.0,7.0,6.0,
+37,2022,8.0,8.0,7.0,Increase revenue generation
+37,2023,6.0,7.0,8.0,Improve data interpretation
+37,2024,9.0,8.0,9.0,Enhance data collection methods
+38,2022,8.0,7.0,9.0,Develop project planning skills
+38,2023,7.0,6.0,8.0,Improve conflict resolution
+38,2024,5.0,6.0,5.0,Enhance data collection methods
+39,2022,6.0,7.0,6.0,
+39,2023,7.0,8.0,7.0,Improve market research abilities
+39,2024,8.0,7.0,9.0,Enhance data interpretation
+40,2022,7.0,8.0,8.0,increase efficiency and productivity
+40,2023,6.0,7.0,8.0,Enhance data collection methods
+40,2024,9.0,8.0,9.0,Improve presentation skills
+41,2018,,,,
+41,2019,5.0,7.0,7.0,
+41,2020,7.0,6.0,7.0,Improve self-awareness
+42,2021,8.0,7.0,6.0,Develop leadership skills
+42,2022,6.0,8.0,8.0,
+42,2023,5.0,6.0,5.0,Enhance customer satisfaction
+43,2024,6.0,7.0,6.0,Increase team productivity
+43,2025,7.0,5.0,5.0,Optimize resource allocation
+43,2026,6.0,6.0,5.0,Develop creative problem-solving skills
+44,2027,7.0,7.0,6.0,Improve data interpretation
+44,2018,5.0,6.0,7.0,increase efficiency and productivity
+44,2019,7.0,7.0,7.0,Enhance customer satisfaction
+45,2020,6.0,6.0,7.0,Increase team productivity
+45,2021,5.0,5.0,6.0,Optimize resource allocation
+45,2022,4.0,5.0,7.0,
+46,2023,5.0,6.0,5.0,Increase team collaboration
+46,2024,6.0,7.0,6.0,Optimize workflow processes
+46,2025,7.0,6.0,8.0,Enhance data analysis
+47,2026,6.0,7.0,6.0,Increase efficiency in operations
+47,2027,6.0,6.0,7.0,Enhance creative problem-solving
+47,2018,8.0,7.0,8.0,Enhance working under pressure
+48,2019,7.0,6.0,7.0,
+48,2020,6.0,5.0,6.0,Optimize resource allocation
+48,2021,5.0,5.0,5.0,Increase active listening
+49,2022,6.0,6.0,6.0,Improve data interpretation
+49,2023,7.0,7.0,7.0,Enhance data collection methods
+49,2024,7.0,8.0,8.0,Enhance decision-making skills
+50,2025,6.0,7.0,7.0,Increase team collaboration
+50,2026,7.0,6.0,6.0,Optimize workflow processes
+50,2027,6.0,8.0,7.0,Enhance customer service

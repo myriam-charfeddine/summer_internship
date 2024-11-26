@@ -1,0 +1,17 @@
+﻿Position ID,Position Name,Level,Key Words,Minimum Years Of Experience,Min Support Rating,Min Reporting Rating,Min Team Rating,Min Evaluation Rating,Min Organisation Rating,Min Performance Rating
+1,Developer,1,Programming Backend Frontend Developer Full Stack,2,6,6,6,6,6,6
+2,Tester,1,Testing DevOps,2,6,6,6,6,6,6
+3,Business Analyst,1,Analysis Business Data System,3,6,6,6,6,6,6
+4,Senior Developer,2,Programming Backend Frontend Developer Full Stack,5,7,7,7,7,7,7
+5,SW Dev Engineer in Test,2,Testing DevOps System,5,7,7,7,7,7,7
+6,Senior Business Analyst,2,Requirements Business,6,7,7,7,7,7,7
+7,Technical Lead,3,Leadership System,8,8,8,8,8,8,8
+8,Senior Scrum Master,3,Agile Development,7,8,8,8,8,8,8
+9,Test Manager,3,Test Management System,7,8,8,8,8,8,8
+10,Product Owner,3,Product Management,6,8,8,8,8,8,8
+11,Assoiate Architect,4,Architecture Management,9,9,9,9,9,9,9
+12,SW Technical Manager,4,Technical Management,10,9,9,9,9,9,9
+13,Agile Technical Coach,4,Agile Coaching Software,10,9,9,9,9,9,9
+14,SW Quality Manager,4,Quality Management,9,9,9,9,9,9,9
+15,Senior Product Owner,4,Product Management,8,9,9,9,9,9,9
+16,Software Architect,5,Architecture,10,9,9,8,8,8,9
